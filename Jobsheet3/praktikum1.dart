@@ -26,3 +26,5 @@ void main() {
 
   print(list);
 }
+
+// Langkah 1 dan 2 : pada langkah 1 tdk terdapat error, ouput menampilkan angka 3 2 1

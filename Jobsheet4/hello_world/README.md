@@ -1,16 +1,25 @@
-# hello_world
+# Codelab 5 - Aplikasi Pertama dan Widget Dasar Flutter
 
-A new Flutter project.
+Nama: Aaisyah Nursalsabiil <br>
+NIM: 2341720171 <br>
+Kelas: TI - 3D
 
-## Getting Started
+## Praktikum 1
+Membuat project flutter
 
-This project is a starting point for a Flutter application.
+## Praktikum 2
+Karena device tidak mendukung jadi pengujian dilakukan di chrome. <br>
+![Prak2](img/prak2.png) <br>
 
-A few resources to get you started if this is your first Flutter project:
+## Praktikum 3
+Sudah ada di github repositorinya.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Praktikum 4
+![Prak4](img/prak4.1.png) <br>
+![Prak4](img/prak4.2.png) <br>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Praktikum 5
+![Prak5](img/prak5.1.png) <br>
+![Prak5](img/prak5.2.png) <br>
+![Prak5](img/prak5.3.png) <br>
+![Prak5](img/prak5.4.png) <br>

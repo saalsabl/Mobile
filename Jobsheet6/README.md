@@ -5,7 +5,7 @@ Kelas: TI - 3D <br>
 NIM: 2341720171 <br>
 
 ### Praktikum Menerapkan Plugin di Project Flutter
-![praktikum](img/praktikum.png)
+![praktikum](img/praktikum.jpg)
 
 ### SOAL
 1. Jelaskan maksud dari langkah 2 pada praktikum tersebut!
